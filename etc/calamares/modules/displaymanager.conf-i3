@@ -1,9 +1,0 @@
-displaymanagers:
-  - sddm
-
-executable: "hyprland"
-desktopFile: "hyprland"
-
-basicSetup: false
-
-sysconfigSetup: false

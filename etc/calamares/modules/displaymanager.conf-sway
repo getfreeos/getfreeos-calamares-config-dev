@@ -1,9 +1,0 @@
-displaymanagers:
-  - sddm
-
-executable: "sway"
-desktopFile: "sway"
-
-basicSetup: false
-
-sysconfigSetup: false
